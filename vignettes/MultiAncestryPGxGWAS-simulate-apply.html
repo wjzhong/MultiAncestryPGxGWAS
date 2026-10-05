@@ -474,7 +474,7 @@ ancestry-specific keep files.</p>
 <pre class="r"><code>prepare_geno &lt;- mpgx_prepare_example_genotype(
   output_dir = file.path(work_dir, &quot;genotype_data&quot;),
   prefix = &quot;toyData&quot;,
-  source = &quot;toy_data&quot;,
+  source = &quot;toy_data&quot;, 
   configs = configs,
   overwrite = TRUE,
   pcs_output_dir = method_out_dirs$genotype_artifacts
@@ -526,11 +526,11 @@ cont_inputs &lt;- list(
   bgen_file = genotype_artifacts$bgen_file,
   gds_file = genotype_artifacts$gds_file,
   keep_files = cont_keep$keep_files,
-  lemma_pheno = file.path(cont$result_dir,
+  lemma_pheno = file.path(cont$result_dir, 
     sprintf(&quot;sim_phenotype_forLEMMA_seed_%d.txt&quot;, cont$seed)),
   lemma_envir = file.path(cont$result_dir, &quot;sim_envir_forLEMMA.txt&quot;),
   lemma_covar = file.path(cont$result_dir, &quot;sim_covar_qcovar_forLEMMA.txt&quot;),
-  gem_pheno = file.path(cont$result_dir,
+  gem_pheno = file.path(cont$result_dir, 
     sprintf(&quot;sim_phenotype_forGEM_seed_%d.txt&quot;, cont$seed))
 )</code></pre>
 </div>
