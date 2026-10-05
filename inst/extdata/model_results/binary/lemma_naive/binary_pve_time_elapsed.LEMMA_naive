@@ -1,0 +1,6 @@
+function time
+streamBgen 0.0351072
+solveRHE 0.0311261
+solveJacknife 1.788e-06
+LevMar 0
+LevMar_copyData 0

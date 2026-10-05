@@ -1,0 +1,41 @@
+Package: MultiAncestryPGxGWAS
+Type: Package
+Title: Multi-Population Pharmacogenomics Simulation and GxE Workflow
+Version: 0.1.0
+Authors@R:
+    c(
+      person(given = "Wujuan", family = "Zhong", role = c("aut", "cre"),
+             email = "zhongwujuan@gmail.com"),
+      person(given = "Judong", family = "Shen", role = "ctb",
+             email = "judong.shen@merck.com")
+    )
+Description: Refactors the original MultiAncestryPGxGWAS project scripts into reusable
+    R functions that support local end-to-end tutorial runs and documented
+    HPC/SLURM scaling workflows for larger studies.
+License: GPL (>= 3)
+URL: https://github.com/wjzhong/MultiAncestryPGxGWAS
+BugReports: https://github.com/wjzhong/MultiAncestryPGxGWAS/issues
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+Imports:
+    BEDMatrix,
+    dplyr,
+    GENESIS,
+    Matrix,
+    readr,
+    stats,
+    utils,
+    GWASTools
+Suggests:
+    ggplot2,
+    knitr,
+    metafor,
+    rmarkdown,
+    SNPRelate,
+    tidyr,
+    testthat (>= 3.0.0)
+VignetteBuilder: knitr
+Config/testthat/edition: 3
+Config/roxygen2/version: 8.0.0
+RoxygenNote: 7.3.2

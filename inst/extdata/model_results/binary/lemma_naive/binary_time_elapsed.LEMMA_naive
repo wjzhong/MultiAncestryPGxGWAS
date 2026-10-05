@@ -1,0 +1,5 @@
+function time
+read_data 0.166411
+VB_prepro 0.166411
+VB_inference 0.162592
+SNP_testing 0.161309
