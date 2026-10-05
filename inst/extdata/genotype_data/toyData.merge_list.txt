@@ -1,3 +1,3 @@
-/tmp/RtmpLCFbV2/MultiethnicPGxGWAS_vignette/genotype_data/toyData.EAS.bed /tmp/RtmpLCFbV2/MultiethnicPGxGWAS_vignette/genotype_data/toyData.EAS.bim /tmp/RtmpLCFbV2/MultiethnicPGxGWAS_vignette/genotype_data/toyData.EAS.fam
-/tmp/RtmpLCFbV2/MultiethnicPGxGWAS_vignette/genotype_data/toyData.EUR.bed /tmp/RtmpLCFbV2/MultiethnicPGxGWAS_vignette/genotype_data/toyData.EUR.bim /tmp/RtmpLCFbV2/MultiethnicPGxGWAS_vignette/genotype_data/toyData.EUR.fam
-/tmp/RtmpLCFbV2/MultiethnicPGxGWAS_vignette/genotype_data/toyData.SAS.bed /tmp/RtmpLCFbV2/MultiethnicPGxGWAS_vignette/genotype_data/toyData.SAS.bim /tmp/RtmpLCFbV2/MultiethnicPGxGWAS_vignette/genotype_data/toyData.SAS.fam
+/tmp/RtmpLCFbV2/MultiAncestryPGxGWAS_vignette/genotype_data/toyData.EAS.bed /tmp/RtmpLCFbV2/MultiAncestryPGxGWAS_vignette/genotype_data/toyData.EAS.bim /tmp/RtmpLCFbV2/MultiAncestryPGxGWAS_vignette/genotype_data/toyData.EAS.fam
+/tmp/RtmpLCFbV2/MultiAncestryPGxGWAS_vignette/genotype_data/toyData.EUR.bed /tmp/RtmpLCFbV2/MultiAncestryPGxGWAS_vignette/genotype_data/toyData.EUR.bim /tmp/RtmpLCFbV2/MultiAncestryPGxGWAS_vignette/genotype_data/toyData.EUR.fam
+/tmp/RtmpLCFbV2/MultiAncestryPGxGWAS_vignette/genotype_data/toyData.SAS.bed /tmp/RtmpLCFbV2/MultiAncestryPGxGWAS_vignette/genotype_data/toyData.SAS.bim /tmp/RtmpLCFbV2/MultiAncestryPGxGWAS_vignette/genotype_data/toyData.SAS.fam
